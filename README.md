@@ -1,6 +1,6 @@
 # java-spring-boot-rest-api
 
-This project serves as a demonstration of building a RESTful API using Java Spring Boot. REST, or Representational State Transfer, is an architectural style for designing APIs (Application Programming Interfaces) that enable different software systems to communicate and interact with each other over the internet. It emphasizes using standard HTTP methods (like GET, POST, PUT, DELETE) to perform actions on resources (such as data) in a clear and consistent manner. RESTful APIs allow clients (applications or devices) to request and manipulate data by following a set of conventions, making it a widely used approach for building web services and APIs.
+This project serves as a demonstration of building a RESTful API using Java Spring Boot. REST, or Representational State Transfer, is an architectural style for designing APIs (Application Programming Interfaces) that enable different software systems to communicate and interact with each other over the internet. It emphasizes using standard HTTP methods (like GET, POST, PUT, DELETE) to perform actions on resources (such as data) in a clear and consistent manner. RESTful APIs allow clients (applications or devices) to request and manipulate data by following a set of conventions, making it a widely used approach for building web services and APIs test.
 
 ## Requirements
 [Docker](https://www.docker.com/)
